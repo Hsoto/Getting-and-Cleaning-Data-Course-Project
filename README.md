@@ -1,6 +1,6 @@
 # Getting and Cleaning Data Project
 ## by Héctor Soto P. 
-The purpose of this project is to demonstrate your ability to:
+The purpose of this project is to demonstrate the ability to:
 - collect, 
 - work with, and 
 - clean a data set. 
