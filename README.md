@@ -1,4 +1,5 @@
-# Getting Cleaning Data
+# Getting and Cleaning Data Project
+## by Héctor Soto P. 
 The purpose of this project is to demonstrate your ability to:
 - collect, 
 - work with, and 
