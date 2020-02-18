@@ -11,6 +11,7 @@ You will be required to submit:
 1) a tidy data set as described below, 
 2) a link to a Github repository with your script for performing the analysis, and 
 3) a code book that describes:
+
    3.1) the variables, 
    3.2) the data, and 
    3.3) any transformations or work that you performed to clean up the data called CodeBook.md. 
