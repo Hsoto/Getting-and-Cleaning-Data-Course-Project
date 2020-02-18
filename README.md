@@ -1,5 +1,7 @@
 # Getting and Cleaning Data Project
 ## by Héctor Soto P. 
+## Evaluation criteria: "The README that explains the analysis files is clear and understandable".
+
 The purpose of this project is to demonstrate the ability to:
 - collect, 
 - work with, and 
